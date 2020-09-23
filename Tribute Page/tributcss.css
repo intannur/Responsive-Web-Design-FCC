@@ -1,0 +1,18 @@
+	body{
+		background-color : #FFE4C4;
+	}
+	a{
+		text-align: center;
+	}
+	.txt{
+		text-align: center;
+		font-family: cursive;
+	}
+    #image {
+ 		max-width: 100%;
+ 		width: 100%
+  		height: auto;
+  		display: block;
+  		margin: auto;
+  		border-radius: 50%;
+}
